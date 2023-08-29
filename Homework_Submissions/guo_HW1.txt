@@ -2,3 +2,7 @@ name: Tong Guo
 Date: 08/25/2023
 Assignment_1
 I looked at the streamflow in August and September over past three years, it seems that the streamflow is gradually decreasing, and based on the steamflow data in August sunny days this year, the streamflow might decrease.  
+
+
+### Grade: 
+3/3 Great job!  I got your submission.  Just a note for next time to put your submitsison in the Weekly_Assignments folder. 
