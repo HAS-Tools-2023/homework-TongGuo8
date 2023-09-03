@@ -1,0 +1,4 @@
+Name: Tong Guo
+Date: 09/03/2023
+Assignment_2
+The average value of next week discharge is mainly based on the discharge over past 7 days, and from the data, the discharge shows a trend of decreasing, therefore the discharge in the next two week should be lower. I calculate the mean discharge data from 08/27/2023 to 08/31/2023 to use as the next two week discharge for these days have discharge lower than 100 cfs which may consistent to a downward trend.  
