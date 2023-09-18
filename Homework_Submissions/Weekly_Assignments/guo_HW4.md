@@ -2,6 +2,13 @@ Name: Tong Guo
 Data: 09/28/2023
 Assignment_4
 
+##
+## Grade
+3/3 
+- see the comment in the previous HW about formatting as a markdown file. 
+- exercise 3.1 was my mistake, you are correct it should be a 3X3 array
+##
+
 Reason: According to the quantiles of flow in September after 2010, most the daily recharge are less than 182, and half of the flow data are less than 97.9. The histogram shows most of flow are between 50-150.
 I calculate the quantiles of flow between 17th and 23rd in September after 2010, the results shows half of the data are less than 97.9.   
 I also calulate the quantiles of flow for September 2023 and the results shows 50% and 75% values are less than 105 and 143.8 respectively.
