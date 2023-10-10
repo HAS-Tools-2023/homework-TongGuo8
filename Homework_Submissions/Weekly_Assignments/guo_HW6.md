@@ -2,15 +2,23 @@
 #### Date: 10/07/2023
 #### Assignment_6
 
+### Grade
+3/3: nice work!
+- Great job doing markdown tables those came out great!
+- note on formatting for your forecast explanation you have everything in as headers and you have '>' at the start of every line that makes the formatting come out a bit weird. Note how I reformatted it and feel free to come talk to me if you have questions. 
+
 ### Forecast:
 | Forecast | Flow(cfs) |
 | ----------- | ----------- |
 | **one week** | **77.79** |
 | **two week** | **88.95** |
-> #### Reason: 
-> #### I picked up the flow data the `month` is October and `year` larger 2010, `day` before 15. The mean, min and max flow are 154.70cfs, 55.7cfs and 1910cfs. And 0.25, 0.5 and 0.75 quantiles are 91.53cfs, 120.0cfs and 144.75cfs respectively.
-> #### I grouped the flow data by `year`, and calculated the mean, max and min flow, from the results I found that the minimun flow of October is in 2023, and the mean flow of October in 2023 also has the lowest flow, which means in 2023 the flow might not be much lower than the previous years, and the year of 2019 and 2020 have the similar values as 2023, so I chose the mean flow of 2019 and 2020 and average them as the one week forecast, which is 77.79cfs.
-> #### And I ues the same way to forecast the two week forecast, but I change `day` after 15, the flow is obviously increase than the half October, I also chose the 2019 and 2020 mean flow, which is 88.95cfs.
+#### Reason: 
+I picked up the flow data the `month` is October and `year` larger 2010, `day` before 15. The mean, min and max flow are 154.70cfs, 55.7cfs and 1910cfs. And 0.25, 0.5 and 0.75 quantiles are 91.53cfs, 120.0cfs and 144.75cfs respectively.
+
+I grouped the flow data by `year`, and calculated the mean, max and min flow, from the results I found that the minimun flow of October is in 2023, and the mean flow of October in 2023 also has the lowest flow, which means in 2023 the flow might not be much lower than the previous years, and the year of 2019 and 2020 have the similar values as 2023, so I chose the mean flow of 2019 and 2020 and average them as the one week forecast, which is 77.79cfs.
+
+And I ues the same way to forecast the two week forecast, but I change `day` after 15, the flow is obviously increase than the half October, I also chose the 2019 and 2020 mean flow, which is 88.95cfs.
+
  ### Assignment Questions:
 1. **Provide a summary of the data frames properties.**
     
