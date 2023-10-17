@@ -2,6 +2,11 @@
 #### Date: 10/16/2023
 #### Assignment_7
 
+### Grade
+3/3: Nice job!
+- Good work fixing up your markdown formatting this time in response to my comments last week. 
+- Glad you are feeling more confident with Pandas. It does take time to get comfortable but your plots look great!
+###
 
 
 ### Forecast:
