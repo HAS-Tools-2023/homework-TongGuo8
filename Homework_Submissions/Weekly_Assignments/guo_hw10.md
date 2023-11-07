@@ -2,7 +2,8 @@
 #### Date: 11/06/2023
 #### Assignment_10
 
-
+### Grade
+3/3 - Nice work. Glad the Panda's exercises are going well. Its okay For loops are still a bit confusing those take lots of practice. With all of pythons built in functions you don't need to use for loops too often. 
 
 ### Forecast:
 | Forecast | Flow(cfs) |
