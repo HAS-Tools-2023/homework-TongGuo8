@@ -2,6 +2,19 @@
 #### Date: 10/29/2023
 #### Assignment_9
 
+### Grade 7.5/9
+**Code Review**
+- I left comments in your code with some suggestions they all start with #LC
+Readability: 2.5/3 
+    -  You did not have very many comments at all in your code which made it hard to follow. I left suggestions for you on ones you can add. 
+    -  Most of your variable names were good but some could be more descriptive and I left you comments for those. 
+Style: 2.5/3
+    - I left a bunch of comments for you on adding more white space and formatting lines of code that go onto multiple lines this will make it much easier to read. 
+    - Also note there were a bunch of spacing issues that the linter found that were not addressed so make sure to go through and catch those. 
+Code:  2.5/3
+    - Your code ran perfectly and I didn't have any issues. 
+    - Also your plots are beautiful! Really love them. 
+    - I subtracted 0.5 because you don't have a function in your code and that was a requirement. 
 
 
 ### Forecast:
