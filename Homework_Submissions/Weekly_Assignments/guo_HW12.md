@@ -2,6 +2,9 @@
 #### Date: 11/20/2023
 #### Assignment_12
 
+### Grade
+2.5/3: Nice work. I took off 0.5 for not being able to get data other than USGS but I do understand that the API stuff is very confusing and lots of people struggled with it. 
+
 ### Forecast:
 | Forecast | Flow(cfs) |
 | ----------- | ----------- |
@@ -20,7 +23,7 @@
   - I choose two datasets, one if the gage height of our forecast station and this data is from  [USGS Basin summary](https://water.usgs.gov/lookup/getwatershed?15060202/www/cgi-bin/lookup/getwatershed), and I access this data by using `url`. Another data is about precipitation of the site *09502960* and the data is from USGS as well, I use the same way to access the data by using `url`.
   
 3. A plot of your additional time series along with your streamflow time series.
-   ![Alt text](<week12 plot1.png>)
+a   ![Alt text](<week12 plot1.png>)
    ![Alt text](<week12 plot2.png>)
 4. Reflections on any questions or uncertainties you have after this week. 
 - I still feel a little confused about Thursday class, and that way to get accessed the data seems a little complex than using `url` of USGS. And when I tried to using the method of Thursday's class,it shows no such data in this site when I changing the varies, or I don't know how to get other site id...that's why my assignment mainly used the `url` from USGS to access different data. 
