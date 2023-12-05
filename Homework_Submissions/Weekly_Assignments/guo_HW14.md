@@ -1,3 +1,7 @@
+### Grade
+3/3 - Great job this semester Tong! You have come so far and its really great to see how much you were able to accomplish. I'm very happy to hear that you found the class useful and I hope that you will keep coding as much as possible practice makes perfect :) 
+
+
 1. What were your favorite (or most useful) topics we covered?
    
 - My favorite part is pandas, maybe because it is more friendly and easy for me to slice data and the functions are also useful. And also matplotlib, this topic might be really useful for our own research to plot kinds of figures, I know using matplotlib can plot lots of amazing or more complicated figures, but for now I still only can plot some basic figures. 

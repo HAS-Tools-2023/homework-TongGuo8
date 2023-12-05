@@ -2,7 +2,12 @@
 #### Date: 11/26/2023
 #### Assignment_13
 
+### Grade 
+9/9 : Really nice work on this. You have made great improvements from your last script to this one!  I like all the functions you have defined and your documentation is much improved. 
 
+Glad you found chatGPT to be useful. It takes some practice to figure out how to make the best use of it but once you get the hang of it can make a lot of things easier especially documentation. 
+
+I left you some comments for how you can improve your script a bit just for future reference.  One big picture comment is to define all of your functions at the top of the script and make sure that if your functions are relying on any data that that data is included as an argument to the function. 
 
 ### Forecast:
 | Forecast | Flow(cfs) |

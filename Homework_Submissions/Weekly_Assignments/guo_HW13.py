@@ -20,6 +20,8 @@ data = pd.read_table(url, skiprows=30, names=['agency_cd', 'site_no', 'datetime'
 # Write the function to plot the mean, max and min flow yearly
 # of any period after 2010
 flow_periods = (12, 3, 9)
+
+# This is a tricky function I like it! One suggestion though. You are relying on 'data' inside the function but you are not passing it as an argument into the function which requires the user to know this and already have that object created. I would suggest adding the dataframe as an argument to your function. 
 def flow_period(month, date1, date2):
     """
     Plots the mean, max, and min flow data for a specific month and date range.
@@ -55,8 +57,10 @@ ax.legend()
 
 # %%
 # The function can get the forecast and plot for any week
+# LC - This is great! Next time pull the out to the top block of the code after the import statements so its easy for the user to find. 
 forecast_date= ('2023-12-1', '2023-12-2') # Users can change the start and end date here
 
+# LC - next time define all of your functions at the top of the code in one block that makes the script a little easier to follow. 
 def forecast_date_input(start, end):
     """
     Generates a forecast for the flow based on a specified time period.
@@ -136,6 +140,8 @@ ax.legend()
 # If the week spans two months
 # input two flow forecasts in different month
 # Calculate the mean value of two periods flow
+
+# LC Its great you are considering this case (i.e. when a forecast could span two months). I would suggest in having this be a condition that gets checked for and corrected for in your original function though rather than expecting the user to know and correct for it. 
 two_period_flows = (170.15, 208.46) # Enter two mean flow in a week but include two months
 
 def two_period_flow(flow1, flow2):
